@@ -1,2 +1,3 @@
 .idea
-test*
+prepare*
+.ipynb_checkpoints/
