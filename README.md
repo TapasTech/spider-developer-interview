@@ -10,7 +10,7 @@
 - 数据媒体与数据报告
     - [第一财经商业数据中心CBNData](https://www.cbndata.com)   
     - [数据媒体【DT财经】](https://www.dtcj.com/)
-    - [明星大数据](https://cbndata.com/star-rank/)
+    - [明星大数据【星数】](https://cbndata.com/star-rank/)
     - 蚂蚁财富投研资讯
 - 数据建模与挖掘
     - 商业咨询与运营策略制定
