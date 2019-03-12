@@ -15,7 +15,7 @@
 - 数据建模与挖掘
     - 商业咨询与运营策略制定
     - 客户涵盖”阿迪达斯“、”卡西欧“等知名企业
-    - 跨领域数据数据服务（城市与商业数据）
+    - 跨领域数据服务（城市与商业数据）
 
 在这里，你将与以下部门的同事一起合作：   
 - 技术创新部的工程师（大多为985/211，海归硕士，BAT等大厂背景）
@@ -33,6 +33,6 @@
 ## 笔试问题说明
 
 - 克隆或下载本代码仓库到本地
-- 安装Python3和[Jupyter notebook](https://jupyter.org)开发环境（如果没有安装的话）
-- 启动 Jupyter notebook，并根据本目录下[【第一财经数据科技公司——爬虫开发工程师】笔试题.ipynb](https://github.com/TapasTech/spider-developer-interview/blob/master/%E3%80%90%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E6%95%B0%E6%8D%AE%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E2%80%94%E2%80%94%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E3%80%91%E7%AC%94%E8%AF%95%E9%A2%98.ipynb)
+- 安装Python3和[Jupyter Notebook](https://jupyter.org)开发环境（如果没有安装的话）
+- 启动 Jupyter Notebook，并根据本目录下[【第一财经数据科技公司——爬虫开发工程师】笔试题.ipynb](https://github.com/TapasTech/spider-developer-interview/blob/master/%E3%80%90%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E6%95%B0%E6%8D%AE%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E2%80%94%E2%80%94%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E3%80%91%E7%AC%94%E8%AF%95%E9%A2%98.ipynb)
 文件说明完成。
